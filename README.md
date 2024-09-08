@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We developed a local-first web application that empowers users to manage their daily and weekly tasks efficiently. The app allows users to sign up or log in, create and organize tasks, and track their progress throughout the week. With a focus on simplicity and usability, the app leverages CRUD operations to provide a seamless task management experience, with data persistence ensured via local storage.
+This project was developed as part of a **Software Engineering** course. We created a local-first web application that empowers users to manage their daily and weekly tasks efficiently. The app allows users to sign up or log in, create and organize tasks, and track their progress throughout the week. With a focus on simplicity and usability, the app leverages CRUD operations to provide a seamless task management experience, with data persistence ensured via local storage.
 
 ## Features
 
@@ -32,7 +32,7 @@ We developed a local-first web application that empowers users to manage their d
 
 ## Key Accomplishments
 
-- Led a cross-functional team of 10 developers to create a smooth and user-friendly task management experience, resulting in positive user feedback and a streamlined development process.
+- Coordinated with a cross-functional team of 10 developers as part of a Software Engineering course to create a smooth and user-friendly task management experience, resulting in positive user feedback and a streamlined development process.
 - Spearheaded the implementation of CRUD operations, ensuring 100% data persistence across sessions via local storage, significantly enhancing user experience.
 - Designed and integrated the front-end and back-end components, ensuring a seamless and intuitive interface for managing tasks.
 
